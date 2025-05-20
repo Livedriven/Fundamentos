@@ -1,2 +1,2 @@
 # Fundamentos
-Exercicios Para aprender sobre os fundamento do JavaScript
+Exercícios Para aprender sobre os fundamento do JavaScript
