@@ -1,3 +1,3 @@
-### Exercios Basicos
+# Exercios Basicos
 
-Pasta reservada para os Exercicios mais basicos sobre JavaScript
+Pasta reservada para os Exercícios mais basicos sobre JavaScript
