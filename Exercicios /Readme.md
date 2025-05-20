@@ -1,3 +1,3 @@
 ### Exercios Fundamentais Para logica
 
-Organizando todos os Exercios em Pasta para seus respectivos Niveis de Dificuldade
+Organizando todos os Exercícios em Pastas para seus respectivos Niveis de Dificuldade
