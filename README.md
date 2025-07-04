@@ -1,3 +1,3 @@
 # Fundamentos
-Exercícios Para aprender sobre os fundamento do Front end
+Exercícios Para aprender sobre os fundamento do JavaScript
 
